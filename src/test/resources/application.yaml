@@ -1,0 +1,8 @@
+health:
+  check: 200
+
+limits:
+  providers: 5
+  calls: 2
+
+resolution: Random
